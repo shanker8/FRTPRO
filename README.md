@@ -16,6 +16,10 @@ About my project:
 
 My project is about hair styling. I am creating a platform that will allow users to discover the best hair styling products and services in their local area. The platform will include a search engine to help users find the perfect products and services for their specific needs. It will also provide reviews and ratings from other users to help users make informed decisions. Additionally, the platform will offer tips and tutorials to help users learn how to style their hair in the best way possible.
 
+project link: https://kind-ocean-04ed85000.2.azurestaticapps.net/
+
+project demo video: https://user-images.githubusercontent.com/104435757/213763767-955a655d-bca5-4203-8dc3-6a07cab30e97.mp4
+
 Screenshots:
 
 ![image](https://user-images.githubusercontent.com/104435757/213760435-7a4326ea-e872-4c07-a4bf-0d74eba4dd46.png)
