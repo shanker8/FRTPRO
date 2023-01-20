@@ -7,7 +7,8 @@ A passionate frontend developer from India
 - 👨‍💻 All of my projects are available at [https://github.com/shanker8](https://github.com/shanker8)
 
 - 📫 How to reach me **bhavanishanker228@Gmail.com**
-Connect with me:"https://linkedin.com/in/shanker konduru"
+
+Connect with me:"https://linkedin.com/in/shankerkonduru"
 
 Languages and Tools: C, CPP, JAVA, PYTHON, HTML, MYSQL, CSS.
 
