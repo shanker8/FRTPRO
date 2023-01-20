@@ -1,4 +1,4 @@
-# FRTPRO
+# HAIRDRESSER
 Hi 👋, I'm Bhavani Shanker
 A passionate frontend developer from India
 
